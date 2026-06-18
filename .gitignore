@@ -1,0 +1,8 @@
+# 1. Ignorar absolutamente todo (carpetas y archivos)
+*
+
+# 2. Excepciones: Archivos que SÍ queremos rastrear
+!.gitignore
+!datathon_pds07.ipynb
+!datamecum_logo.png
+!README.md
